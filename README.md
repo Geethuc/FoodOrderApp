@@ -1,5 +1,18 @@
 # Food Ordering App
 
+Screenshots
+
+![img3](https://github.com/Geethuc/FoodOrderApp/assets/144789344/8859c2a0-6268-4398-9bca-babe8718c21a)
+![img2](https://github.com/Geethuc/FoodOrderApp/assets/144789344/7ef7c0cb-89c0-459f-ada6-6614d4e0b061)
+
+![page1](https://github.com/Geethuc/FoodOrderApp/assets/144789344/55cd9266-28f9-4cec-a4fe-b1120331a9bf)
+
+
+
+
+
+# Food Ordering App
+
 -Header
   -logo
   -nav items
@@ -112,12 +125,4 @@ npm i -D @babel/preset-react
 -install a library for toBeInTheDocument
 
 npm i -D @testing-library/jest-dom
-
-
-
-
-
-Screenshots
-
-
 
