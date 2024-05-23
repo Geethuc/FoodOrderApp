@@ -2,11 +2,9 @@
 
 Screenshots
 
-![img3](https://github.com/Geethuc/FoodOrderApp/assets/144789344/8859c2a0-6268-4398-9bca-babe8718c21a)
-![img2](https://github.com/Geethuc/FoodOrderApp/assets/144789344/7ef7c0cb-89c0-459f-ada6-6614d4e0b061)
-
-![page1](https://github.com/Geethuc/FoodOrderApp/assets/144789344/55cd9266-28f9-4cec-a4fe-b1120331a9bf)
-
+![page1](https://github.com/Geethuc/FoodOrderApp/assets/144789344/6288a882-e020-4ea2-b5eb-1f19b84d9470)
+![page2](https://github.com/Geethuc/FoodOrderApp/assets/144789344/c9d1294e-9a4f-4044-aa89-3573b4fa55a6)
+![page3](https://github.com/Geethuc/FoodOrderApp/assets/144789344/96f0ced4-f51c-4589-a475-e990cecc82f7)
 
 
 
